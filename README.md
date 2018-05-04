@@ -69,7 +69,8 @@
 |姜汁啤酒| [gingerbeer.blog.51cto.com](http://gingerbeer.blog.51cto.com)     | 网络 |
 |金笔头| [jinbitou.net](http://jinbitou.net)     | 后端 |
 |丑胖侠| [http://blog.csdn.net/wo541075754](http://blog.csdn.net/wo541075754)     | 区块链&Drools |
-| 以诺网      |  [www.enoch.site](http://www.enoch.site/) | JAVA |  
+|以诺网| [www.enoch.site](http://www.enoch.site/)     | JAVA |
+
 > 按照入群顺序来排序
 
 
