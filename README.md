@@ -72,6 +72,10 @@
 |丑胖侠| [http://blog.csdn.net/wo541075754](http://blog.csdn.net/wo541075754)     | 区块链&Drools |
 |以诺网| [www.enoch.site](http://www.enoch.site/)     | JAVA |无
 |apoollo| [www.apoollo.com](http://www.apoollo.com/)     | JAVA |无
+|万家博客| [www.wanhejia.com](http://www.wanhejia.com/)     | JAVA |无
+|大老杨| [www.dalaoyang.cn](https://www.dalaoyang.cn/)     | JAVA |大老杨
+|唐亚峰博客| [blog.battcn.com](http://blog.battcn.com/)     | JAVA |battcn
+
 
 > 按照入群顺序来排序
 
