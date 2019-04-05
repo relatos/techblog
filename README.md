@@ -27,7 +27,6 @@
 | chenssy | [www.cmsblogs.com](http://cmsblogs.com/)     |   JAVA |
 | 阿蜜果 | [www.blogjava.net/amigoxie](http://www.blogjava.net/amigoxie/)     |   JAVA |
 |静儿1986 | [www.cnblogs.com/xiexj](http://www.cnblogs.com/xiexj/)     |   JAVA |
-|程序猿DD | [blog.didispace.com](http://blog.didispace.com)     |   JAVA | 程序猿DD|
 |小柒 | [blog.52itstyle.com](http://blog.52itstyle.com/)     |   JAVA |
 |匠心十年 | [www.cnblogs.com/gaochundong](http://www.cnblogs.com/gaochundong)     |  C# .NET   |
 |tkb至简 | [www.cnblogs.com/farb](http://www.cnblogs.com/farb/)     |  C# .NET   |
@@ -38,13 +37,10 @@
 |田园里的蟋蟀 | [www.cnblogs.com/xishuai](http://www.cnblogs.com/xishuai)     |   C# .NET  |
 |冯尧 | [blog.csdn.net/fengyao1995](http://blog.csdn.net/fengyao1995)     |  JAVA |
 |许进 | [www.xujin.org](http://xujin.org)     |  JAVA |
-|周立 | [www.itmuch.com](http://www.itmuch.com/)     |  JAVA |
 |焰尾迭 | [www.cnblogs.com/yanweidie](http://www.cnblogs.com/yanweidie/)     |    C# .NET  |
 |张子阳 | [www.cnblogs.com/JimmyZhang](http://www.cnblogs.com/JimmyZhang/)     |    C# .NET  |
 |Emrys | [www.cnblogs.com/emrys5](http://www.cnblogs.com/emrys5/)     |    C# .NET  |
-|梁桂钊| [blog.720ui.com](http://blog.720ui.com/)     |   JAVA | 服务端思维|
 |王爵nice| [www.biezhi.me](http://biezhi.me/)     |   JAVA |
-|占小狼| [www.jianshu.com/u/90ab66c248e6](http://www.jianshu.com/u/90ab66c248e6)     |   JAVA |
 |wc的一些事一些情| [www.cnblogs.com/wcd144140](http://www.cnblogs.com/wcd144140/)     |   JAVA |
 |ChokCoco| [www.cnblogs.com/coco1s](http://www.cnblogs.com/coco1s/)     |   前端 |
 |知秋| [muyinchen.github.io](https://muyinchen.github.io/)     |   JAVA |
@@ -55,7 +51,6 @@
 |查利鹏| [imzlp.me](https://imzlp.me)     |   C++ |
 |勇敢的心| [studyai.com/blog/index](http://studyai.com/blog/index)     |  机器学习  |
 |CLL| [www.geekjc.com](https://www.geekjc.com)     |  前端  |
-|Zhisheng Tian| [www.54tianzhisheng.cn](http://www.54tianzhisheng.cn)     |  JAVA  |
 |柴| [www.geektechblog.tk](http://www.geektechblog.tk)     |  python  |
 |mikumikulch| [mikumikulch.gitbooks.io](https://mikumikulch.gitbooks.io/chucklin_blog/content/ )     |  java  |
 |抹桥| [www.kisnows.com](https://www.kisnows.com)     |  前端  |
