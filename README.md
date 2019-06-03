@@ -73,7 +73,7 @@
 |张亚东博客| [www.zhyd.me](https://www.zhyd.me)     | JAVA | 码一码
 |匠心零度| [www.jiangxinlingdu.com](http://www.jiangxinlingdu.com/)     | JAVA | 匠心零度
 |Vim教程网| [https://vim.ink](https://vim.ink)     | Vim | vimtutor
-|京东资深SRE工程师-梁松华| [http://www.liangsonghua.me](http://www.liangsonghua)     | JAVA和稳定性保障 | 松花皮蛋的黑板报
+|京东资深SRE工程师| [http://www.liangsonghua.me](http://www.liangsonghua)     | JAVA和稳定性保障 | 松花皮蛋的黑板报
 
 > 按照入群顺序来排序
 
