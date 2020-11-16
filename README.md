@@ -72,7 +72,7 @@
 |唐亚峰博客| [blog.battcn.com](http://blog.battcn.com/)     | JAVA |battcn
 |张亚东博客| [www.zhyd.me](https://www.zhyd.me)     | JAVA | 码一码
 |匠心零度| [www.jiangxinlingdu.com](http://www.jiangxinlingdu.com/)     | JAVA | 匠心零度
-|Vim教程网| [https://vim.ink](https://vim.ink)     | Vim | vimtutor
+|Vim教程网| [https://vimjc.com](https://vimjc.com)     | Vim | vimtutor
 |会打篮球的程序猿| [http://www.lzhpo.com](http://www.lzhpo.com)     | Java和大数据 | 会打篮球的程序猿
 |bugstack虫洞栈| [https://bugstack.cn](https://bugstack.cn)     | Java | bugstack虫洞栈 |
 
